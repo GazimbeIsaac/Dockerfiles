@@ -95,13 +95,13 @@ These are reusable tests that can anybody can implement and can be found in my [
 
 [Continuous Integration](https://travis-ci.org/HariSekhon/Dockerfiles) in run on this and adjacent repos that form a bi-directional validation between these docker images and several other repositories full of hundreds of programs. All of this is intended to keep the quality of this repo as high as possible.
 
-Hari Sekhon
+Isaac Gazimbe
 
-Cloud & Big Data Contractor, United Kingdom
+Cloud & Big Data Contractor, Johanessburg South Africa
 
 (ex-Cloudera, former Hortonworks Consultant)
 
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/harisekhon/)
+[![My LinkedIn](https://www.linkedin.com/in/isaac-gazimbe-2154b015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfqwmHWlSQsCxrWg%2FUOEfcg%3D%3D)](https://www.linkedin.com/in/isaac-gazimbe-2154b015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfqwmHWlSQsCxrWg%2FUOEfcg%3D%3D)
 ###### (you're welcome to connect with me on LinkedIn)
 
 ### Ready to run Docker images
